@@ -1,0 +1,6 @@
+gradio
+openai
+pandas
+selenium
+webdriver-manager
+python-dotenv
